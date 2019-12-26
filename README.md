@@ -1,4 +1,6 @@
-# Git repo setup for Pausch Lab
+Slider
+======
 
-Pausch Lab Members can use this template repositories
-for Unity based projects.
+Total freely running game. Runs in a fast pace. Can be updated in a more better way.
+Took some help from the youtube.
+
